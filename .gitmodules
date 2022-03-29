@@ -1,0 +1,27 @@
+[submodule "portal-api"]
+	path = portal-api
+	url = https://github.com/PaaS-TA/PAAS-TA-PORTAL-API.git
+[submodule "portal-common-api"]
+	path = portal-common-api
+	url = https://github.com/PaaS-TA/PAAS-TA-PORTAL-COMMON-API.git
+[submodule "portal-gateway"]
+	path = portal-gateway
+	url = https://github.com/PaaS-TA/PAAS-TA-PORTAL-GATEWAY.git
+[submodule "portal-log-api"]
+	path = portal-log-api
+	url = https://github.com/PaaS-TA/PAAS-TA-PORTAL-LOG-API.git
+[submodule "portal-registration"]
+	path = portal-registration
+	url = https://github.com/PaaS-TA/PAAS-TA-PORTAL-REGISTRATION.git
+[submodule "portal-ssh"]
+	path = portal-ssh
+	url = https://github.com/PaaS-TA/PAAS-TA-PORTAL-SSH.git
+[submodule "portal-storage-api"]
+	path = portal-storage-api
+	url = https://github.com/PaaS-TA/PAAS-TA-PORTAL-STORAGE-API.git
+[submodule "portal-webadmin"]
+	path = portal-webadmin
+	url = https://github.com/PaaS-TA/PAAS-TA-PORTAL-WEBADMIN.git
+[submodule "portal-webuser"]
+	path = portal-webuser
+	url = https://github.com/PaaS-TA/PAAS-TA-PORTAL-WEBUSER.git
