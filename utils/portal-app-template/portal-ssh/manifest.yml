@@ -1,0 +1,8 @@
+---
+applications:
+- name: ssh-app
+  buildpacks: 
+   - https://github.com/cloudfoundry/nodejs-buildpack.git#v1.7.35
+  memory: 1024M
+  instances: 1
+  path: .
