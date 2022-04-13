@@ -1,0 +1,10 @@
+[
+    {
+        "destination": "<PAAS-TA_DB_IP>",
+        "protocol": "all"
+    },
+    {
+        "destination": "<PORTAL_DB_IP>",
+        "protocol": "all"
+    }
+]
