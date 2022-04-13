@@ -38,5 +38,5 @@ git checkout ${PORTAL_WEB_ADMIN_VERSION}
 cd ../portal-webuser
 git checkout ${PORTAL_WEB_USER_VERSION}
 
-cd ../utils
+cd ../scripts
 

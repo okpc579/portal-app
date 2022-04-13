@@ -71,7 +71,7 @@ cd ../portal-ssh
 npm install --production
 
 
-cd ../utils
+cd ../scripts
 
 # Build file copy
 
