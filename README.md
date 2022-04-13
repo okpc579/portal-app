@@ -16,4 +16,4 @@ PaaS-TA Portal Container APP 버전관리를 진행하는 repository
 | scripts/git-submodule-change.sh | git submodule의 버전 관리를 지원하는 Shell 파일 |
 | scripts/make-portal-app.sh | Portal APP zipfile 생성을 지원하는 Shell 파일 |
 
-※ 공식적으로 지원되는 Shell이 아니기에 스크립트 내용은 예고 없이 언제든 변경 될 수 있습니다.
+※ 공식적으로 지원되는 Shell Script가 아니기에 스크립트 내용은 예고 없이 언제든 변경 될 수 있습니다.
